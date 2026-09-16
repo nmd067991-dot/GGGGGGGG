@@ -41,7 +41,7 @@ NET_STATS = {}
 os.makedirs(BOTS_DIR, exist_ok=True)
 IS_WINDOWS = sys.platform == 'win32'
 
-DEFAULT_ADMIN_PASSWORD = os.environ.get('ADMIN_PASSWORD', 'Alamin@Host2026!Secure')
+DEFAULT_ADMIN_PASSWORD = os.environ.get('ADMIN_PASSWORD', 'mdalaminmmmnnn037@gmail.com')
 
 
 # ============================================
